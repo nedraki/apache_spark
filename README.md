@@ -8,9 +8,9 @@ This repo explore resources for learning ApacheSpark with Python.
 
 [Well documented resources for learning ApacheSpark can be found here](https://runawayhorse001.github.io/LearningApacheSpark/index.html)
 
-- Credits to @MingChen0919
+Credits to @MingChen0919
 
-[https://runawayhorse001.github.io/LearningApacheSpark/index.html](Documentation)
+[Documentation](https://runawayhorse001.github.io/LearningApacheSpark/index.html)
 
 [Repo](https://github.com/MingChen0919/learning-apache-spark)
 
